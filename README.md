@@ -1,6 +1,6 @@
 # ATM-Francis1 Algorithm
 
-### This are the steps to follow to withdraw money from an ATM machine using your debit card.
+### This are the steps to follow to transfer money from an ATM machine using your debit card.
 
 ## STEP 1: Go to an ATM stand.
 ## STEP 2: If there is a queue wait your turn.
