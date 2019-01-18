@@ -13,3 +13,4 @@
 ## STEP 9: Enter receivers account number.
 ## STEP 10: Enter amount to transfer to receiver.
 ## STEP 11: Click send
+## STEP 12: Remove your card.
